@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm [Jeong Ho Jung](https://ctrs.tistory.com/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho218&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho218&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongho218&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔭 I’m currently looking for a job
