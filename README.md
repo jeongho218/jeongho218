@@ -17,5 +17,5 @@
 #### 🏦 I previously worked on
 * Network/Server Engineer @ [XenoSolution](https://xenosolution.co.kr/) (2018.06 ~ 2021.04)
 
-| <a><img align="center"[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongho218&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)/> </a>|<a><img align="center" [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho218&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)/> </a> |
+| <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongho218&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) </a>|<a> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho218&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) </a> |
 | ------------- | ------------- |
